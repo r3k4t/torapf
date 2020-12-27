@@ -2,7 +2,7 @@
 
 <h6>Author : RKT</h6>
 
-![Screenshot_2020-12-27_13-25-14](https://user-images.githubusercontent.com/69615463/103166336-06dda900-4847-11eb-95c7-61398e078688.png
+![Screenshot_2020-12-27_13-25-14](https://user-images.githubusercontent.com/69615463/103166336-06dda900-4847-11eb-95c7-61398e078688.png)
 
 TORAPF is a Tor Network Admin Page Finder Tool.Its build on python program.It can help to get admin page anonymously.
 
