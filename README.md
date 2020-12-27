@@ -32,3 +32,5 @@ TORAPF is a Tor Network Admin Page Finder Tool.Its build on python program.It ca
 
 
 ### Tor Network Command (stop) ###
+
++ sudo service tor stop
