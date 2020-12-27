@@ -14,7 +14,7 @@ TORAPF is a Tor Network Admin Page Finder Tool.Its build on python program.It ca
 + sudo apt install torsocks
 + sudo pip install -r requirements.txt
 
-### Tor Network ###
+### Tor Network Command ###
 
 + sudo service tor start
 
